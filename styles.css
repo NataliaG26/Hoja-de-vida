@@ -1,0 +1,39 @@
+.grid-container{
+    display: grid;
+    grid-template-columns: 300px auto;
+    grid-template-rows: 300px auto auto auto;
+}
+
+.grid-container div{
+    text-align: center;
+    border: 1px solid black;
+}
+
+.grid-color-1{
+    background-color: #FBFBFB;
+}
+
+.grid-color-2{
+    background-color: #FFFFFF;
+}
+
+.grid-color-3{
+    background-color: #F7F7F7;
+}
+
+.basic-text{
+    font-family: system-ui;
+}
+
+.blond-text{
+
+}
+
+.main-title{
+
+}
+
+.basic-title{
+
+}
+
